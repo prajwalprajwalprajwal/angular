@@ -4,7 +4,7 @@ This interactive tutorial will teach you the basic building blocks to start buil
 
 ## How to use this tutorial
 
-You'll need to have basic familiarity with HTML, CSS and JavaScript to understand Angular.
+You'll need to have basic familiarity with HTML, CSS/SAAS and JavaScript to understand Angular.
 
 Each step represents a concept in Angular. You can do one, or all of them.
 
